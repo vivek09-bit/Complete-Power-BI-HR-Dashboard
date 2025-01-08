@@ -19,9 +19,5 @@ This project demonstrates how to create an interactive **HR Analytics Dashboard*
 ## Files Included  
 - **HR_Analytics.csv**: The raw dataset used for the project.  
 - **Power BI (.pbix) File**: Contains the completed dashboard.  
-
-## How to Use  
-1. Clone this repository:  
-   ```bash  
-   git clone <repository-url>  
+ 
 insights from Companies Data Project.pdf (https://github.com/user-attachments/files/18297986/insights.from.Companies.Data.Project.pdf)
